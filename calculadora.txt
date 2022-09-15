@@ -1,8 +1,7 @@
 Hola broder
 
-<<<<<<< HEAD
+
 Hola soy Damian
 
-=======
+
 ACTUALIZA PERRITAAAAAAAAAA
->>>>>>> 0561b771e131e7e836ba296dc4e175cc09b30999
